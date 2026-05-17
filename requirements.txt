@@ -1,6 +1,5 @@
 ai_helper_utils==0.5.0
 # Editable install with no version control (aihelper_akshay1==0.1.0)
--e c:\users\hp\documents\assignment\ai_f_project
 annotated-types==0.7.0
 anyio==4.12.0
 argon2-cffi==25.1.0
