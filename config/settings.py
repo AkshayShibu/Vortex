@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-n*7g*hga&)szd**wg^+86#p8cev&c(=ac24weyz7r61($e#zm(
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['vortex-ij27.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
